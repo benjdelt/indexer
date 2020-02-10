@@ -1,0 +1,11 @@
+{
+  "image": [".ai", ".bmp", ".gif", ".ico", ".jpeg", ".jpg", ".png", ".ps", ".psd", ".svg", ".tif", ".tiff"],
+  "audio": [".aif", ".cda", ".mid", ".midi", ".midi", ".mp3", ".mpa", ".ogg", ".wav", ".wma", ".wpl"],
+  "video": [".3g2", ".3gp", ".avi", ".flv", ".h264", ".m4v", ".mkv", ".mov", ".mp4", ".mpg", ".mpeg", ".rm", ".swf", ".vob", ".wmv"],
+  "text": [".doc", ".docx", ".odt", ".pdf", ".rtf", ".tex", ".txt"],
+  "archive": [".7z", ".arj", ".deb", ".pkg", ".rar", ".rpm", ".tar.gz", ".z", ".zip"],
+  "disc": [".dmg", ".iso", ".toast", ".vcd"],
+  "executable": [".apk", ".bat", ".bin", ".com", ".exe", ".jar", ".wsf"],
+  "internet": [".cer", ".css", ".htm", ".html", ".js", ".jsx", ".php", ".py", ".rb", ".xhtml"],
+  "spreadsheet": [".csv", ".ods", ".xlr", ".xls", ".xlsx"]
+}
